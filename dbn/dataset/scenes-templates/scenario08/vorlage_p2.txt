@@ -1,0 +1,48 @@
+SetPose:
+{
+    "position":first,
+    "orientation":orientation
+}
+ActionSequence:
+[
+    {
+        "name":"walk",
+        "startPosition":first,
+        "velocityFactor":1.0,
+        "controlPoints":
+        [
+            first,
+            second
+        ]
+    },
+    {
+        "name":"walk",
+        "startPosition":second,
+        "velocityFactor":1.0,
+        "controlPoints":
+        [
+            second,
+            third
+        ]
+    },
+    {
+        "name":"walk",
+        "startPosition":third,
+        "velocityFactor":1.0,
+        "controlPoints":
+        [
+            third,
+            fourth
+        ]
+    },
+    {
+        "name":"walk",
+        "startPosition":fourth,
+        "velocityFactor":1.0,
+        "controlPoints":
+        [
+            fourth,
+            fifth
+        ]
+    }
+]

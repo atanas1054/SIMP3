@@ -1,0 +1,12 @@
+# Misc
+*.DS_Store
+
+# VSCode Settings
+.vscode/
+
+# Python
+__pycache__/
+
+# Custom
+OpenDS-CTS02/
+pyemidas/training_data/**/training_data.csv

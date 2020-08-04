@@ -1,0 +1,11 @@
+Failure "not synchronous enough":		0/16880 -- 0.0%
+Failure "doesn't walk":				13/16880 -- 0.0007701421800947868%
+Failure "remains at (0,0,0)":			0/16880 -- 0.0%
+Failure "outside walkable area":		0/16880 -- 0.0%
+Failure "looks second":				417/16880 -- 0.02470379146919431%
+Failure "waves second":				480/16880 -- 0.02843601895734597%
+Failure "doesn't see the gesture":		0/16880 -- 0.0%
+Failure "either not looking at the other":	2/16880 -- 0.00011848341232227489%
+Failure "Naming convention":			0/16880 -- 0.0%
+Failure "This shouldn't happen":		19/16880 -- 0.0011255924170616113%
+Failure "Unknown error":			0/16880 -- 0.0%

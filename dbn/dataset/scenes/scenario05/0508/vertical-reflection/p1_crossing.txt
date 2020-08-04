@@ -1,0 +1,60 @@
+SetPose:
+{
+    "position": {"x":4050.7112,"y":0.0,"z":6469.2607},
+    "orientation": {"x":0.9862169942825009,"y":0.0,"z":0.0,"w":0.16545706448619762}
+}
+
+ActionSequence:
+[
+    {
+        "name": "walk",
+        "startPosition": {"x":4050.7112,"y":0.0,"z":6469.2607},
+        "velocityFactor": 2.0,
+        "controlPoints":
+        [
+            {"x":4050.7112,"y":0.0,"z":6469.2607},
+            {"x":3776.9285,"y":0.0,"z":6374.7354}
+        ]
+    },
+    {
+        "lookAtTarget": {"x":3574.5577,"y":150.0,"z":5255.4984},
+        "spineTarget": {"x":3574.5577,"y":150.0,"z":5255.4984},
+        "constrainLookAt": true,
+        "name": "walk",
+        "startPosition": {"x":3776.9285,"y":0.0,"z":6374.7354},
+        "velocityFactor": 2.0,
+        "controlPoints":
+        [
+            {"x":3776.9285,"y":0.0,"z":6374.7354},
+            {"x":3675.9684,"y":0.0,"z":6334.1949}
+        ]
+    },
+    {
+        "lookAtTarget": {"x":3574.5577,"y":150.0,"z":5255.4984},
+        "spineTarget": {"x":3574.5577,"y":150.0,"z":5255.4984},
+        "constrainLookAt": true,
+        "name": "walk",
+        "upperBodyGesture": {
+            "name": "waveHandRaiseHigh"
+        },
+        "startPosition": {"x":3675.9684,"y":0.0,"z":6334.1949},
+        "velocityFactor": 2.0,
+        "controlPoints":
+        [
+            {"x":3675.9684,"y":0.0,"z":6334.1949},
+            {"x":3524.0309,"y":0.0,"z":6286.6592}
+        ]
+    },
+    {
+        "lookAtTarget": {"x":3574.5577,"y":150.0,"z":5255.4984},
+        "constrainLookAt": true,
+        "name": "walk",
+        "startPosition": {"x":3524.0309,"y":0.0,"z":6286.6592},
+        "velocityFactor": 2.0,
+        "controlPoints":
+        [
+            {"x":3524.0309,"y":0.0,"z":6286.6592},
+            {"x":3548.2945,"y":0.0,"z":5342.2582}
+        ]
+    }
+]

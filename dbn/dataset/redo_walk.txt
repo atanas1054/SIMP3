@@ -1,0 +1,13 @@
+0101_vertical-horizontal-reflection_42_1
+0106_vertical-horizontal-reflection_65_1
+0106_vertical-horizontal-reflection_80_1
+0201_vertical-reflection_166_1
+0203_horizontal-reflection_94_1
+0402_vertical-horizontal-reflection_27_1
+0404_horizontal-reflection_31_1
+0404_horizontal-reflection_48_1
+0404_horizontal-reflection_6_1
+0404_no-reflection_62_1
+0404_vertical-reflection_25_1
+0404_vertical-reflection_34_1
+0404_vertical-reflection_3_1

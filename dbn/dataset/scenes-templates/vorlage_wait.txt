@@ -1,0 +1,46 @@
+SetPose:
+{
+    "position":first,
+    "orientation":orientation_start
+}
+ActionSequence:
+[
+    {
+        "name":"walk",
+        "startPosition":first,
+        "velocityFactor":1.0,
+        "controlPoints":
+        [
+            first,
+            second
+        ]
+    },
+    {
+        "lookAtTarget":look,
+        "spineTarget": look,
+        "constrainLookAt": true,
+        "name":"walk",
+        "startPosition":second,
+        "velocityFactor":1.0,
+        "controlPoints":
+        [
+            second,
+            third
+        ]
+    },
+    {
+        "lookAtTarget":look,
+        "spineTarget": look,
+        "constrainLookAt": true,
+        "name":"walk",
+        "upperBodyGesture": {"name":"waveRight"},
+        "startPosition":third,
+        "velocityFactor":1.0,
+        "controlPoints":
+        [
+            third,
+            fourth
+        ],
+        "orientation":orientation_end
+    }
+]

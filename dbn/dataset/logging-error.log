@@ -1,0 +1,33 @@
+ERROR:0402_vh_54:p1 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0404_vr_34:p1 doesn't walk.
+ERROR:0106_hr_11:p2 never reaches the street. This shouldn't happen.
+ERROR:0402_nr_23:p2 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0402_hr_9:p2 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0201_vr_166:p1 doesn't walk.
+ERROR:0402_hr_49:p2 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0106_vh_80:p2 doesn't walk.
+ERROR:0404_hr_6:p2 doesn't walk.
+ERROR:0402_vr_32:p1 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0404_hr_31:p2 doesn't walk.
+ERROR:0404_hr_54:p1 never reaches the street. This shouldn't happen.
+ERROR:0402_hr_32:p2 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0404_vr_3:p1 doesn't walk.
+ERROR:0101_vh_42:p1 doesn't walk.
+ERROR:0402_vr_63:p1 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0404_nr_62:p2 doesn't walk.
+ERROR:0203_hr_94:p2 doesn't walk.
+ERROR:0402_hr_56:p2 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0402_vh_27:p2 doesn't walk.
+ERROR:0402_vr_8:p1 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0402_vr_33:p1 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0106_vr_62:p1 never reaches the street. This shouldn't happen.
+ERROR:0402_nr_40:p2 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0402_vh_30:p1 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0106_vh_65:p2 doesn't walk.
+ERROR:0404_hr_48:p2 doesn't walk.
+ERROR:0402_nr_19:p2 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0402_vr_64:p1 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0404_vr_25:p1 doesn't walk.
+ERROR:0402_vh_45:p1 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:0402_vr_34:p1 seems to stay in the same position all the time, annotation file won't be created. This shouldn't happen.
+ERROR:Total number of scenes : 16880

@@ -1,0 +1,62 @@
+SetPose:
+{
+    "position": {"x":3508.2436,"y":0.0,"z":5168.8107},
+    "orientation": {"x":-0.16594831979365005,"y":0.0,"z":0.0,"w":0.9861344508522478}
+}
+
+ActionSequence:
+[
+    {
+        "name": "walk",
+        "startPosition": {"x":3508.2436,"y":0.0,"z":5168.8107},
+        "velocityFactor": 2.0,
+        "controlPoints":
+        [
+            {"x":3508.2436,"y":0.0,"z":5168.8107},
+            {"x":3642.0422,"y":0.0,"z":5215.1548}
+        ]
+    },
+    {
+        "lookAtTarget": {"x":4442.7412,"y":150.0,"z":6644.0465},
+        "spineTarget": {"x":4442.7412,"y":150.0,"z":6644.0465},
+        "constrainLookAt": true,
+        "name": "walk",
+        "startPosition": {"x":3642.0422,"y":0.0,"z":5215.1548},
+        "velocityFactor": 2.0,
+        "controlPoints":
+        [
+            {"x":3642.0422,"y":0.0,"z":5215.1548},
+            {"x":3709.8981,"y":0.0,"z":5243.4401}
+        ]
+    },
+    {
+        "lookAtTarget": {"x":4442.7412,"y":150.0,"z":6644.0465},
+        "spineTarget": {"x":4442.7412,"y":150.0,"z":6644.0465},
+        "constrainLookAt": true,
+        "name": "walk",
+        "upperBodyGesture": {
+            "name": "waveSlowSmallHighHandShort"
+        },
+        "startPosition": {"x":3709.8981,"y":0.0,"z":5243.4401},
+        "velocityFactor": 2.0,
+        "controlPoints":
+        [
+            {"x":3709.8981,"y":0.0,"z":5243.4401},
+            {"x":3848.225,"y":0.0,"z":5291.4624}
+        ],
+        "orientation": {"x":-0.6987573182295695,"y":0.0,"z":0.0,"w":0.7153587982408688}
+    },
+    {
+        "lookAtTarget": {"x":4442.7412,"y":150.0,"z":6644.0465},
+        "constrainLookAt": true,
+        "name": "walk",
+        "startPosition": {"x":3848.225,"y":0.0,"z":5291.4624},
+        "velocityFactor": 2.0,
+        "controlPoints":
+        [
+            {"x":3848.225,"y":0.0,"z":5291.4624},
+            {"x":4210.7855,"y":0.0,"z":5413.8262}
+        ],
+        "orientation": {"x":-0.6987578675873609,"y":0.0,"z":0.0,"w":0.7153582616317254}
+    }
+]

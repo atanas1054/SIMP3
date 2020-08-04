@@ -1,0 +1,11 @@
+Feature,Value,Slices,WOE,Target Probability
+Initial,,,,0.10254625515120358
+p1_approach,"['y', 'y', 'y', 'y', 'y', 'y', 'm', 'y', 'y']",0-9,93.93291376589991,0.49840941913595516
+dist,"['range_12_15', 'range_12_15', 'range_12_15', 'range_12_15', 'range_9_12', 'range_9_12', 'range_9_12', 'range_9_12', 'range_9_12']",0-9,95.0748119541042,0.8986957428708928
+p1_body,"['strongly_facing', 'strongly_facing', 'strongly_facing', 'slightly_facing', 'strongly_facing', 'strongly_facing', 'strongly_facing', 'strongly_facing', 'strongly_facing']",0-9,14.843130510534763,0.9258479161786987
+p2_head,"['central', 'central', 'central', 'central', 'central', 'central', 'central', 'central', 'central']",0-9,3.2555661708010044,0.9308328699614986
+p1_gesture,"['None', 'None', 'None', 'None', 'None', 'None', 'None', 'None', 'None']",0-9,1.6402216549953135,0.9332252444734985
+p1_head,"['central', 'central', 'central', 'central', 'central', 'central', 'central', 'central', 'central']",0-9,0.021279521060027975,0.9332557714741199
+p2_body,"['strongly_facing', 'slightly_facing', 'slightly_facing', 'slightly_facing', 'slightly_facing', 'slightly_facing', 'slightly_facing', 'slightly_facing', 'slightly_facing']",0-9,-0.15671030235361016,0.9330306553229818
+p2_approach,"['y', 'y', 'y', 'y', 'y', 'y', 'm', 'y', 'y']",0-9,-23.214501639383183,0.8908710450295901
+p2_gesture,"['arm_raise_high', 'arm_raise_high', 'arm_raise_high', 'arm_raise_high', 'arm_raise_high', 'arm_raise_high', 'arm_raise_high', 'arm_raise_high', 'arm_raise_high']",0-9,19.32962359776456,0.9272200534386802
